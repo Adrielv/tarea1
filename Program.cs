@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ejer3
+namespace ejem
 {
     class Program
     {
