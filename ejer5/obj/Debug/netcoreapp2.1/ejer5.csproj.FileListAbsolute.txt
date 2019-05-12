@@ -1,0 +1,10 @@
+C:\Users\Merry Xmas Love Sis\Desktop\Aplicada 1\Tarea1\cap2\ejer5\bin\Debug\netcoreapp2.1\ejer5.deps.json
+C:\Users\Merry Xmas Love Sis\Desktop\Aplicada 1\Tarea1\cap2\ejer5\bin\Debug\netcoreapp2.1\ejer5.runtimeconfig.json
+C:\Users\Merry Xmas Love Sis\Desktop\Aplicada 1\Tarea1\cap2\ejer5\bin\Debug\netcoreapp2.1\ejer5.runtimeconfig.dev.json
+C:\Users\Merry Xmas Love Sis\Desktop\Aplicada 1\Tarea1\cap2\ejer5\bin\Debug\netcoreapp2.1\ejer5.dll
+C:\Users\Merry Xmas Love Sis\Desktop\Aplicada 1\Tarea1\cap2\ejer5\bin\Debug\netcoreapp2.1\ejer5.pdb
+C:\Users\Merry Xmas Love Sis\Desktop\Aplicada 1\Tarea1\cap2\ejer5\obj\Debug\netcoreapp2.1\ejer5.csproj.CoreCompileInputs.cache
+C:\Users\Merry Xmas Love Sis\Desktop\Aplicada 1\Tarea1\cap2\ejer5\obj\Debug\netcoreapp2.1\ejer5.AssemblyInfoInputs.cache
+C:\Users\Merry Xmas Love Sis\Desktop\Aplicada 1\Tarea1\cap2\ejer5\obj\Debug\netcoreapp2.1\ejer5.AssemblyInfo.cs
+C:\Users\Merry Xmas Love Sis\Desktop\Aplicada 1\Tarea1\cap2\ejer5\obj\Debug\netcoreapp2.1\ejer5.dll
+C:\Users\Merry Xmas Love Sis\Desktop\Aplicada 1\Tarea1\cap2\ejer5\obj\Debug\netcoreapp2.1\ejer5.pdb
